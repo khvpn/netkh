@@ -10,7 +10,7 @@
          "url": "https://kguza.net/web/file/maine/Dtac_Lazada_04.ovpn"
       },
 {
-         "name": "Dtac90days_VIP1",
+         "name": "Dtac.HappyWork_TH04_VIP1",
          "url": "https://raw.githubusercontent.com/san2018soe/san2018soe/main/Dtac90days_VIP1.ovpn"
       },
 {
@@ -142,5 +142,5 @@
    ],
 "message":"update: 20/12/2021 \nConfig version: 16\nUpdate by: sansoe ",
    "title":"New config update available" ,
-   "version": 26
+   "version": 27
 }
